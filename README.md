@@ -1,5 +1,5 @@
 # This is the test programming assignment.
-# Execute the pthread example mentioned in the Chapter 4 slides.
+## Execute the pthread example mentioned in the Chapter 4 slides.
 - Use the "main.c" file to wirte your code.
 - Don't add any file in the repo.
 
